@@ -1,0 +1,3 @@
+[submodule "halotools"]
+	path = halotools
+	url = https://github.com/astropy/halotools.git
